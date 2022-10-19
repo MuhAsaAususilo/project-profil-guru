@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/th"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IDENTITAS GURU"
+        android:background="#6E5FA6"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="379dp"
+        android:layout_height="210dp"
+        android:src="@drawable/burita" />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:rita purwosetiorini"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="21sp"
+        android:background="#6E5FA6"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NIP:196903292014062001"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:background="#6E5FA6"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Guru Mapel:PKK/produktif boga"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:background="#6E5FA6"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alamat:desa loireng RT1/RW4 ongorawe"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:background="#6E5FA6"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6E5FA6"
+        android:text="Tanggal Lahir:29 maret 1969"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6E5FA6"
+        android:text="imail:ritamf1969@gmail.com"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
